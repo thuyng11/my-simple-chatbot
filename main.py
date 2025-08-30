@@ -11,7 +11,7 @@ from client import respond_with_openai, respond_about_me
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", "dev-secret")
-FACTS_PASSWORD = os.getenv("FACTS_PASSWORD", "hello123")
+FACTS_PASSWORD = os.getenv("FACTS_PASSWORD", "")
 
 # app.py (excerpt) — unified chick-themed template
 TEMPLATE = """
