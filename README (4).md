@@ -2,6 +2,7 @@
 
 A cute, chick-themed chatbot web app built with Flask + SQLite + the OpenAI API.  
 Supports multiple conversations, a personal “About Me” knowledge base, and a password-protected facts manager.
+Want to view how it is used? Go to this link: https://drive.google.com/file/d/1yp3526MSmjvAf5099tfA33_ac5RVTQl7/view?usp=sharing
 
 ---
 
